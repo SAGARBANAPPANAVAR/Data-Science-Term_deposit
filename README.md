@@ -2,6 +2,12 @@
 
 To predict if the client will subscribe to term deposit.
 
-After Bivariate Analysis, data shows students and Retired people were the most to subscribe  
+Steps followed:<br/>
+Reading the data<br/>
+Univariate Analysis<br/>
+Bivariate Analysis<br/>
+Model Building<br/>
+Logistic Regression<br/>
+Decision Tree<br/>
 
-The Evaluation metric used is accuracy.
+Evaluation Metrics used is accuracy
